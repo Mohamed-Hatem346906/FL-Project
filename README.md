@@ -18,13 +18,13 @@ This project explores **federated learning**, **sparse training**, and **masking
 .
 ├── requirements.txt
 ├── README.md
-├── main.ipynb / main.py  #Our Project as Notebook & script
+├── FL_GroupID_14.ipynb / FL_GroupID_14.py  #Our Project as Notebook & script
 ├── checkpoints/
-│   └── (https://drive.google.com/drive/folders/1gM9x-O6LWJUdQDD_9tP6UH3WtuJLITV7?usp=sharing)         # Model checkpoints
+│   └── https://drive.google.com/drive/folders/1gM9x-O6LWJUdQDD_9tP6UH3WtuJLITV7?usp=sharing         # Model checkpoints Free Access to all visitors
 ├── logs/
-│   └──  (https://github.com/Mohamed-Hatem346906/FL-Project/tree/784b895a7a4f7054ab581c9c5a738bde0f4f5df8/Experiments_logs) #all experiments logs as CSV file
+│   └──  https://github.com/Mohamed-Hatem346906/FL-Project/tree/2556053877e12da11131d2fdfac2209fa09ebdfc/Experiments_logs_FL_GroupID_14 #all experiments logs as CSV file just copy the path 
 ├── figures/
-│   └── (https://github.com/Mohamed-Hatem346906/FL-Project/tree/9e81f040cbe142c5270cd720a607c798ee790f29/Figures%26Plots)   # Plots and result images
+│   └── https://github.com/Mohamed-Hatem346906/FL-Project/tree/2556053877e12da11131d2fdfac2209fa09ebdfc/Figures%26Plots_FL_GroupID_14   # Plots and result (Plots & HeatMaps ) just copy the path
 
 
 ## Installation
