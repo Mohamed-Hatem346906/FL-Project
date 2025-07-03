@@ -18,11 +18,11 @@ This project explores **federated learning**, **sparse training**, and **masking
 .
 ├── requirements.txt
 ├── README.md
-├── main.ipynb / main.py  # (your main notebook or script)
+├── main.ipynb / main.py  #Our Project as Notebook & script
 ├── checkpoints/
 │   └── (https://drive.google.com/drive/folders/1gM9x-O6LWJUdQDD_9tP6UH3WtuJLITV7?usp=sharing)         # Model checkpoints
 ├── logs/
-│   └──  # Training/validation logs
+│   └──  (https://github.com/Mohamed-Hatem346906/FL-Project/tree/784b895a7a4f7054ab581c9c5a738bde0f4f5df8/Experiments_logs) #all experiments logs as CSV file
 ├── figures/
 │   └── (https://github.com/Mohamed-Hatem346906/FL-Project/tree/9e81f040cbe142c5270cd720a607c798ee790f29/Figures%26Plots)   # Plots and result images
 
