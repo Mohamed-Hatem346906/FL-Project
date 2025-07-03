@@ -20,9 +20,9 @@ This project explores **federated learning**, **sparse training**, and **masking
 ├── README.md
 ├── main.ipynb / main.py  # (your main notebook or script)
 ├── checkpoints/
-│   └── ...               # Model checkpoints
+│   └── (https://drive.google.com/drive/folders/1gM9x-O6LWJUdQDD_9tP6UH3WtuJLITV7?usp=sharing)         # Model checkpoints
 ├── logs/
-│   └── ...               # Training/validation logs
+│   └──  # Training/validation logs
 ├── figures/
 │   └── ...               # Plots and result images
 └── (other utility files)
