@@ -24,9 +24,8 @@ This project explores **federated learning**, **sparse training**, and **masking
 ├── logs/
 │   └──  # Training/validation logs
 ├── figures/
-│   └──  Figures&Plots   # Plots and result images
-└── (other utility files)
-```
+│   └── (https://github.com/Mohamed-Hatem346906/FL-Project/tree/9e81f040cbe142c5270cd720a607c798ee790f29/Figures%26Plots)   # Plots and result images
+
 
 ## Installation
 
